@@ -147,7 +147,7 @@ ftp_login($conn_id, $this->FTP_id, $this->FTP_pw);
 # ftp_pasv($conn_id, true);
 
 # FTP 접근 경로를 설정해준다.
-$upload_dir = "/www/min_module/doc_public/bbs/".$this->SavePath;
+$upload_dir = "[upload_dir]".$this->SavePath;
 
 ftp_chdir($conn_id, $upload_dir);
 
