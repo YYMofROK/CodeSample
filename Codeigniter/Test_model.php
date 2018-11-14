@@ -74,6 +74,6 @@
       return $this->db->trans_status();
       }//   end function
 		
-	}//	end class
+		}//	end class
 	
 ?>
