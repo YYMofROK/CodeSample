@@ -1,7 +1,7 @@
 
 ////////////////////////////////////////////////////////////
 //
-/   @ ReplaceAll 함수 구현
+//   @ ReplaceAll 함수 구현
 String.prototype.replaceAll = function(searchStr, replaceStr) {
      return this.split(searchStr).join(replaceStr);
 }
