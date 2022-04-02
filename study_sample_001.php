@@ -45,10 +45,6 @@ for($cnt_line=0; $cnt_line < $max_line; $cnt_line++)
     
    for($cnt_column=0; $cnt_column < $max_column ;$cnt_column ++)
    {
-     
-     
-     
-     
     $target_value1 = abs($cnt_column-(ceil($max_column / 2)-1));
     $target_value2 = $max_line - ($cnt_line +1);
      
