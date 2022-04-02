@@ -32,10 +32,7 @@ $first_day = date("w",mktime(0,0,1,$month,1,$year));
  
 # 전체 일자 산출
 $last_day = date("t",mktime(0,0,1,$month,1,$year));
- 
- 
- 
- 
+
 ?>
   
 <table border="1" cellspacing="0">
