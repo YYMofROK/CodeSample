@@ -36,8 +36,3 @@ for($num_1 = 1 ; $num_1 <= 100 ; $num_1 ++)
 }// end for
   
 ?>
-
-
-출처: https://qnfmfmd.tistory.com/40?category=611713 [은랑이의 세상살아가는 이야기~]
-
-출처: https://qnfmfmd.tistory.com/40?category=611713 [은랑이의 세상살아가는 이야기~]
